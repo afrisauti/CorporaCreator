@@ -19,3 +19,4 @@ from .sl import sl
 from .tr import tr
 from .tt import tt
 from .zhTW import zhTW
+from .ha import ha

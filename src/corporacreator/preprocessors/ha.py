@@ -1,4 +1,4 @@
-def tt(client_id, sentence):
+def ha(client_id, sentence):
     """Cleans up the passed sentence, removing or reformatting invalid data.
 
     Args:
@@ -8,5 +8,5 @@ def tt(client_id, sentence):
     Returns:
       (str): Cleaned up sentence. Returning None or a `str` of whitespace flags the sentence as invalid.
     """
-    # TODO: Clean up tt data
+    # TODO: Clean up en data
     return sentence
